@@ -1,0 +1,85 @@
+#lateralDiv{
+  display: block;
+  width: 15%;
+  height: 100%;
+  background-color: #202020;
+  color: #202020;
+  float: left;
+}
+#centralDiv{
+  height: 100%;
+}
+.LDTitle{
+  color: white;
+  margin-left: 10px;
+}
+.imgCV{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+}
+.SubTitles{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+  color: white;
+  background-color: black;
+  margin-top: 20px;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5em;
+}
+.Subtext{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+  color: white;
+  margin-top: 20px;
+  width: 100%;
+  text-align: center;
+}
+.measureBar100{
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  width: 80%; /*80% = 100%*/
+}
+.measureBar80{
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  width: 64%; /*80% = 100%*/
+}
+.left20{
+  color: black;
+  display: block;
+  margin-left: auto;
+  position: relative;
+  right: -1px;
+  background-color: black;
+  width: 16%; /*80% = 100%*/
+}
+
+.textCD{
+
+  display: block;
+  margin-left: 300px;
+  margin-right: 0px;
+}
+html, body{
+  height: 100%;
+  margin: 0;
+}
+
+.TitleCD{
+  margin-left: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
